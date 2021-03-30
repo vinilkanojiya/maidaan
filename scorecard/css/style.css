@@ -1,0 +1,49 @@
+img{
+	max-width: 100%;
+}
+body{
+	background: #f1f3f4;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.navbar-dark{
+	background: #000;
+	color: #fff;
+	padding: 0px 0px;
+	margin-bottom: 20px;
+}
+.logo{
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.logo img{
+	width: 50px;
+	margin-right: 5px;
+}
+.navbar-dark .welcome_msg{
+	margin-top: 10px;
+	font-weight: 400;
+}
+.profile{
+	background: #ff6000;
+	width:30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 50%;
+	color: #fff;
+	font-weight: 700;
+	text-transform:uppercase;
+}
+
+.content-body{
+	background: #fff;
+	box-shadow: 0px 0px 6px rgba(0,0,0,0.2);
+	padding: 15px;
+}
